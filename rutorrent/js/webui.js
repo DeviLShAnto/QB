@@ -2300,7 +2300,7 @@ var theWebUI =
 			if(dl.length)
 				newTitle+=('↓'+dl+' ');
 		}
-		newTitle+="ruTorrent v"+self.version;
+		newTitle+="DeviL v"+self.version;
 		if(document.title!=newTitle)
 			document.title = newTitle;
 	        $("#stup_speed").text(ul);
